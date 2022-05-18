@@ -23,7 +23,7 @@
     
     'data':[
         'security/academy_security.xml',
-        'securityir.model.access.csv',
+        'security/ir.model.access.csv',
     ],
     
     'demo':[
